@@ -11,7 +11,6 @@
   inputs.src-ipsumgenera-master.ref   = "refs/heads/master";
   inputs.src-ipsumgenera-master.owner = "dom96";
   inputs.src-ipsumgenera-master.repo  = "ipsumgenera";
-  inputs.src-ipsumgenera-master.dir   = "";
   inputs.src-ipsumgenera-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
