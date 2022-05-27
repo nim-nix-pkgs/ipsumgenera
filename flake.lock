@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791537,
-        "narHash": "sha256-TlPyvDswT+7pMw0t5BGgSicaKg3djEdV+GThogMiEbY=",
+        "lastModified": 1652797084,
+        "narHash": "sha256-3JUMGpbHNC1ymM9O9nwCYfVcd9fcoCm0UlNIfFbbUyc=",
         "owner": "nim-nix-pkgs",
         "repo": "ipsumgenera",
-        "rev": "897e5ff5788cc9f28051be27e25e98a1ebefc58d",
+        "rev": "5db3dffd2a9099695163568e60a883a55be7d03c",
         "type": "github"
       },
       "original": {
